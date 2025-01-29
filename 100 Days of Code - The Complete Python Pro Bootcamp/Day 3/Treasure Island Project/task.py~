@@ -26,7 +26,7 @@ choice = input("Type 'left' or 'right': ")
 if choice == "left":
     choice = input("Type 'swim' or 'wait': ")
     if choice == "wait":
-        choice = input("Which door: 'red', 'blue' or 'yellow': ")
+        choice = input("Type 'red', 'blue' or 'yellow': ")
         if choice == "yellow":
             print("You win!")
         else:

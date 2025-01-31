@@ -19,11 +19,28 @@
       <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -148,22 +165,24 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2sCMYwklFYoy7hnMyI8CqzmzpwG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.LearningObjectsStorageType": "SQLite",
-    "Edu.Yaml.Migrate": "true",
-    "Python tests.Unittests in test_task.py.executor": "Run",
-    "Python.task.executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="task" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100 Days of Code - The Complete Python Pro Bootcamp" />

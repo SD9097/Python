@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce07827-67ac-429e-9178-3e915dd11c69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops with Range/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Highest Score/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Password Generator Project/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
